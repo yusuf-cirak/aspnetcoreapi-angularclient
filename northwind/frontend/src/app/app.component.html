@@ -1,0 +1,22 @@
+<!-- Welcome to {{title}} <br>
+Hello {{user}} <br>
+{{product1.productName}}
+<ul>
+  <li *ngFor="let product of products">{{product.productName}}</li>
+</ul> -->
+<div class="Container">
+<app-navi></app-navi>
+<div class="row">
+  <div class="col-md-3">
+    <app-category></app-category>
+  </div>
+  <div class = "col-md-9">
+    <router-outlet></router-outlet> 
+  </div>
+</div>
+ <!-- component tree -->
+
+</div>
+
+<!-- Bu kısmı düzgün ayarlayamadım ama onun dışında sorunsuz çalışıyor.-->
+
