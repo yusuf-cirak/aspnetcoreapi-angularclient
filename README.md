@@ -1,7 +1,7 @@
 
 # aspnetcoreapi-angularclient
 
-These projects built with ASP.NET 5 & N-Layer Arcitecture and Angular Framework
+These projects built with ASP.NET 5 & N-Layer Architecture and Angular Framework
 
 
 
